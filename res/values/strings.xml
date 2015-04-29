@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">APP</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string name="common_empty">暂无数据！</string>
+    <string name="common_retry">获取数据失败,重试！</string>
+    <string name="common_error">很抱歉，暂时无法获取相关数据!</string>
+    <string name="common_loading">加载中</string>
+    <string name="common_loading_more">正在加载更多</string>
+    <string name="common_delete_action_title">%1$d项被选择</string>
+    <string name="common_network_error">网络有问题,请您检查网络.</string>
+    <string name="common_network_to3g">连接到网络3G,提醒您流量会产生费用.</string>
+    <string name="common_storage_remove">存储卡被移除，下载等功能可能无法使用！</string>
+    
+    
+    <string name="leftmenu_laundrt">我要干洗</string>
+    <string name="leftmenu_orders">我的订单</string>
+    <string name="leftmenu_knowledge">干洗常识</string>
+    <string name="leftmenu_about">关于我们</string>
+    
+     <!-- 下拉刷新 -->
+    <string name="pull_to_refresh_pull_label">下拉可以刷新</string>
+    <string name="pull_to_refresh_release_label">松开即可刷新</string>
+    <string name="pull_to_refresh_refreshing_label">正在刷新数据...</string>
+</resources>
